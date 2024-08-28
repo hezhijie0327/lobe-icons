@@ -128,7 +128,7 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: OpenRouter.Combine, keywords: [ModelProvider.OpenRouter], multiple: 0.8 },
   { Icon: ZeroOne.Combine, keywords: [ModelProvider.ZeroOne], multiple: 0.9 },
   { Icon: Together.Combine, keywords: [ModelProvider.TogetherAI] },
-  { Icon: Fireworks.Combine, keywords: [ModelProvider.Fireworks] },
+  { Icon: Fireworks.Combine, keywords: [ModelProvider.FireworksAI] },
   { Icon: Qwen.Combine, keywords: [ModelProvider.Qwen] },
   { Icon: Stepfun.Combine, keywords: [ModelProvider.Stepfun], multiple: 0.83 },
   { Icon: Baichuan.Combine, keywords: [ModelProvider.Baichuan], multiple: 0.83 },
