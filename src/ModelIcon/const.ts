@@ -15,6 +15,7 @@ import CodeGeeX from '@/CodeGeeX';
 import Cohere from '@/Cohere';
 import Dbrx from '@/Dbrx';
 import DeepSeek from '@/DeepSeek';
+import Fireworks from '@/Fireworks';
 import FishAudio from '@/FishAudio';
 import Gemini from '@/Gemini';
 import Gemma from '@/Gemma';
@@ -66,6 +67,7 @@ export const modelMappings: ModelMapping[] = [
   { Icon: DeepSeek, keywords: ['deepseek'] },
   { Icon: Claude, keywords: ['claude'] },
   { Icon: Aws, keywords: ['titan'] },
+  { Icon: Fireworks, keywords: ['accounts/fireworks/models/fire'] },
   { Icon: Meta, keywords: ['llama'] },
   { Icon: LLaVA, keywords: ['llava'] },
   { Icon: Gemini, keywords: ['gemini'] },
