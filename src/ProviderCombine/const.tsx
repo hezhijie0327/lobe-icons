@@ -3,7 +3,7 @@ import { Divider } from 'antd';
 import { FC, ReactNode, memo } from 'react';
 import { Flexbox } from 'react-layout-kit';
 
-import Ai21 from '@Ai21'
+import Ai21 from '@/Ai21'
 import Ai360 from '@/Ai360';
 import AiMass from '@/AiMass';
 import Anthropic from '@/Anthropic';
